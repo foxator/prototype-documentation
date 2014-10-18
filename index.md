@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Primo Prototype Documentation
+title: 标准Primo原型  文档
 ---
 <div id="content" markdown="1">
 ##0. What is this document
